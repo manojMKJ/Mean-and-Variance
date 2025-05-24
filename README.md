@@ -8,7 +8,7 @@ To find mean and variance of arrival of objects from the feeder using probabilit
 
 # Software required :  
 
-Python and Visual components tools
+Python and Visual components tool
 
 # Theory:
 
@@ -48,11 +48,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-
-Developed by: Manoj Kumar G
-
-Register Number: 212222230078
-
 ```
 import numpy as np
 L=[int(i) for i in input().split()]
@@ -78,10 +73,11 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 
+
+
 # Output : 
-![image](https://github.com/22009071/Mean-and-Variance/assets/120206067/6630d8b9-e278-4051-a2c4-9fa91c1e6d44)
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/8aa914d6-8fd8-45e0-a09f-944eaefc2f08" />
 
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
-
